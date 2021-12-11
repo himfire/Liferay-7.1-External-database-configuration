@@ -1,0 +1,10 @@
+Bundle-Name: database3-api
+Bundle-SymbolicName: site.hadef.database3.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	site.hadef.database3.exception,\
+	site.hadef.database3.model,\
+	site.hadef.database3.service,\
+	site.hadef.database3.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../database3-service/service.xml

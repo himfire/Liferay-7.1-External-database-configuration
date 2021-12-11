@@ -1,0 +1,10 @@
+Bundle-Name: database2-api
+Bundle-SymbolicName: site.hadef.database2.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	site.hadef.database2.exception,\
+	site.hadef.database2.model,\
+	site.hadef.database2.service,\
+	site.hadef.database2.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../database2-service/service.xml

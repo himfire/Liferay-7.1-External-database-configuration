@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="site.hadef.database3.model.Gender">
+		<field name="genderId" type="long" />
+		<field name="genderName" type="String" />
+	</model>
+</model-hints>
