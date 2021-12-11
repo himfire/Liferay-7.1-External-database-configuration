@@ -47,3 +47,5 @@ Inside your tomcat prepare the following:
   jdbc.external.username=database_username
   jdbc.external.password=database_password
   ```
+ <br><br><br>
+  4-
