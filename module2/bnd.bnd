@@ -1,0 +1,4 @@
+Bundle-Name: module2
+Bundle-SymbolicName: site.hadef.module2
+Bundle-Version: 1.0.0
+Export-Package: site.hadef.module2.constants
