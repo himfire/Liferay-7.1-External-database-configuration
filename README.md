@@ -48,4 +48,4 @@ Inside your tomcat prepare the following:
   jdbc.external.password=database_password
   ```
  <br><br><br>
-  4-
+
