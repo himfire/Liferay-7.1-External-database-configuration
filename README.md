@@ -1,0 +1,1 @@
+# Liferay-7.1-External-database-configuration
